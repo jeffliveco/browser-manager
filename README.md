@@ -1,11 +1,11 @@
-# browser-manager
+# ember-browser-manager
 
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
 
 * `git clone <repository-url>` this repository
-* `cd browser-manager`
+* `cd ember-browser-manager`
 * `npm install`
 
 ## Running
